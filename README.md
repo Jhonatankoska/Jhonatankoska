@@ -3,7 +3,7 @@
 </p>
 
 # 💫 Sobre mim:
-Sou um analista de qualidade com experiência significativa em testes de software, especialmente em testes mobile. Tenho formação em Processos Gerenciais e estou atualmente cursando Análise e Desenvolvimento de Sistemas. Possuo ampla experiência em diversas ferramentas e tecnologias, incluindo BrowserStack, SauceLabs, Jira, kanbanize, Postman e Android Studio. Minhas habilidades abrangem linguagens como Java (especialmente relacionado ao Selenium) e JavaScript (focado em Appium), além de metodologias ágeis como Scrum e Kanban. Estou constantemente aprimorando meu conhecimento e também dedicando tempo ao estudo da língua inglesa. Para mais informações sobre meu trabalho, por favor, entre em contato.
+Analista de Testes de Software com quase quatro anos de experiência, atuando em projetos de grande relevância, como os aplicativos Smiles e Esfera Santander. Também possuo experiência em aplicações Web e desktop e sistemas ERP, com foco na entrega de resultados de alta qualidade. Graduado em Processos Gerenciais e cursando Análise e Desenvolvimento de Sistemas, estou sempre em busca de aprimoramento e novas tecnologias que agreguem à minha função.
 
 
 ## 🌐 Sociais:
